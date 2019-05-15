@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "one-new-asset-store",
+"dataUrl": "_web-defender.data.unityweb",
+"wasmCodeUrl": "_web-defender.wasm.code.unityweb",
+"wasmFrameworkUrl": "_web-defender.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
